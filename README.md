@@ -5,7 +5,7 @@
 
 El desafio es hacer un simple bot que se conecte a ReMarkets de Rofex utilizando WebSocket (a traves de la libreria pyRofex) y que busque oportunidades de arbitraje de tasas de interes.
 
-Se tomo la decision de utilizar 4 contratos forward (GGAL/Dic21, YPFD/Dic21, DLR/Dic21, PAMP/Dic21) y sus respectivos precios spot para calcular las tasas
+Se tomo la decision de utilizar 4 contratos forward (`GGAL/Dic21`, `YPFD/Dic21`, `DLR/Dic21`, `PAMP/Dic21`) y sus respectivos precios spot para calcular las tasas
 
 ## Funcionamiento
 
